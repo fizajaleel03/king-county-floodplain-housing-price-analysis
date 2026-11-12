@@ -1,0 +1,7 @@
+model,test_r2,rmse_log,median_error_pct
+"Linear regression, no flood",0.804,0.234,14.6
+"Linear regression, with flood",0.804,0.234,14.6
+"Random Forest, no flood",0.935,0.135,7.1
+"Random Forest, with flood",0.935,0.1351,7.1
+"Random Forest, 13 selected features",0.934,0.1362,7.1
+Regression with grid squares and sale quarter,0.93,0.1396,8.4

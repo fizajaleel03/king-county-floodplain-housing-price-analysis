@@ -1,0 +1,10 @@
+step,sales_left
+"Sales from 2022, price > $100,000",241434
+Single-family (PropertyType 11),139869
+Residential use (PrincipalUse 6),137099
+Improved property (PropertyClass 8),132725
+Normal sale reason (SaleReason 1),132374
+"Warranty-type deeds (SaleInstrument 2, 3, 4)",127896
+No red-flag sale warnings,109811
+Joined to building file (single-building parcels),108150
+"Duplicates, built-after-sale, zero-bedroom removed",107924

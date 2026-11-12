@@ -1,0 +1,8 @@
+threshold,homes_flagged
+any overlap,1870
+above 1%,1809
+above 5%,1683
+above 10%,1538
+above 25%,1190
+above 50%,892
+fully inside (above 99%),553

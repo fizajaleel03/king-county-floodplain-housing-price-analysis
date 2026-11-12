@@ -1,0 +1,30 @@
+# Raw and large data (download it yourself, see README)
+data/*
+!data/.gitkeep
+*.csv
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.gdb/
+*.zip
+*.doc
+
+# Saved models
+*.pkl
+*.joblib
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+!results/*.csv
